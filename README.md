@@ -1,8 +1,8 @@
 # Udemy-clone
-🎓 Udemy Course Recommendation Page (HTML + CSS)
+🎓** Udemy Course Recommendation Page (HTML + CSS)**
 This project is a simple Udemy-style course recommendation page, built using HTML and CSS. It showcases a UI with image hover effects and organized course listings such as Recommended for You, Most Popular, and Topics.
 
-✨ # Features
+✨ **Features**
 🎯 Homepage Layout inspired by Udemy
 
 🖼️ Course Cards with Hover Effects
@@ -13,17 +13,16 @@ This project is a simple Udemy-style course recommendation page, built using HTM
 
 💡 Good for beginners to practice layout design and CSS effects
 
-📸 Preview 
+📸 **Preview** https://vinojai19.github.io/Udemy-clone/
 
-💻 Technologies Used
+💻 **Technologies** 
 HTML5
 
 CSS3 (Flexbox, Hover Effects)
 
-📌 Future Enhancements
+📌 **Future Enhancements**
 Add JavaScript for interactivity
 
 Make it fully responsive
 
-Add filtering and search features
 
